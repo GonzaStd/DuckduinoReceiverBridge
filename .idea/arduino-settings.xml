@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArduinoSettingsState">
+    <option name="arduinoCliPath" value="/usr/bin/arduino-cli" />
+    <option name="boardTarget" value="esp8266" />
+    <option name="enableAi" value="false" />
+    <option name="activeBackend" value="platformio" />
+    <option name="platformioPath" value="$USER_HOME$/.platformio/penv/bin/platformio" />
+    <option name="additionalBoardUrls" value="https://arduino.esp8266.com/stable/package_esp8266com_index.json" />
+  </component>
+</project>
